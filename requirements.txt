@@ -3,4 +3,4 @@ ultralytics
 supervision
 numpy
 scikit-learn
-opencv-python-headless
+opencv-python-contrib-headless
