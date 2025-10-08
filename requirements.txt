@@ -3,4 +3,5 @@ ultralytics
 supervision
 numpy
 scikit-learn
-opencv-python-contrib-headless
+opencv-python-headless
+opencv-python==999.999.999
