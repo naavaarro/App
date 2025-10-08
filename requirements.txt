@@ -4,3 +4,4 @@ supervision
 opencv-python
 numpy
 scikit-learn
+opencv-python-headless
